@@ -13,6 +13,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("landing.fxml"));
         primaryStage.setTitle("Loyalty Program");
         primaryStage.setScene(new Scene(root, 800, 480));
+        primaryStage.setFullScreen(true);
         primaryStage.show();
     }
 
