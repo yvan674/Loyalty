@@ -1,0 +1,15 @@
+#title {
+    -fx-font-size: 48px
+}
+
+#phone {
+    -fx-graphic: url(media/phone.png)
+}
+
+#app {
+    -fx-graphic: url(media/qr.png)
+}
+
+#email {
+    -fx-graphic: url(media/email.png)
+}
