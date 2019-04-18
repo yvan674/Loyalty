@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Loyalty">
+    <output-path>$PROJECT_DIR$/out/artifacts/Loyalty</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="landing.Main" />
+        <option name="description" value="" />
+        <option name="height" value="480" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="800" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Loyalty.jar">
+        <element id="module-output" name="Loyalty" />
+      </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/src/landing/media" />
+    </root>
+  </artifact>
+</component>
