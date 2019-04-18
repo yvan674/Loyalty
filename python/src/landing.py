@@ -9,7 +9,7 @@ from os.path import join, isfile
 def landing():
     root = tk.Tk()
     root.geometry("800x480")
-    # root.wm_attributes('-fullscreen', 'true')
+    root.wm_attributes('-fullscreen', 'true')
     tk.Label(master=root,
              text="Loyalty", font=("courier", 48))\
         .grid(row=0, column=0, columnspan=3)
